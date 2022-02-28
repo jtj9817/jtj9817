@@ -1,9 +1,9 @@
 # Hi, I'm Josh Jadulco 👋
 
 I'm a professional web developer with experience in creating static and dynamic websites that's up to the standards 
-derived from business requirements and complies with Web Content Accessibility Guidelines (WCAG).
+derived from business requirements and complies with Web Content Accessibility Guidelines (WCAG). Currently doing professional work
+using Laravel, Bootstrap4, jQuery, and AJAX.
 
-I have contributed to various open-source projects in the past, mainly projects that used Android development framework.
 
 # Programming Languages and Tools 🛠️
 I have experience with the following programming language and tools:

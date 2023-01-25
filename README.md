@@ -7,13 +7,13 @@ using Laravel, Bootstrap4, jQuery, and AJAX.
 
 # Programming Languages and Tools 🛠️
 I have experience with the following programming language and tools:
-- Front-end: HTML5, CSS3, JavaScript, Bootstrap 4, TypeScript, Angular, Vue.js, and React 
-- Back-end: Python, Node.js, PHP, C# (.NET Core), TypeScript, and Java
-- Frameworks: Drupal, WordPress, Django, .NET Core, and Laravel
-- Databases: MySQL, Microsoft SQL, PostgreSQL, MongoDB, and SQLite
-- Tools: Docker, Visual Studio Code, Git (along with GitHub, GitLab, and BitBucket), VMWare Horizon and VMWare Workstation,
-Chrome & Firefox Developer Tools 
-- DevOps: Heroku, Azure DevOps, Amazon Web Services
+- **Front-end**: HTML5, CSS3, JavaScript, Bootstrap 4, TypeScript, Angular, Vue.js, and React 
+- **Back-end**: Python, Node.js, PHP, C# (.NET Core), TypeScript, and Java
+- **Framework**s: Drupal, WordPress, Django, .NET Core, and Laravel
+- **Databases**: MySQL, Microsoft SQL, PostgreSQL, MongoDB, and SQLite
+- **Operating System**s: Windows 10, macOS, and Linux (i.e. Debian and Ubuntu)
+- **Tools**: Docker, Visual Studio Code, Git (along with GitHub, GitLab, and BitBucket), VMWare Horizon and VMWare Workstation,
+Chrome & Firefox Developer Tools, Postman
 
 # Currently Learning 🌱
 Currently learning Nuxt3, NestJS, and Fastify.

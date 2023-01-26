@@ -7,9 +7,9 @@ using Laravel, Bootstrap4, jQuery, and AJAX.
 
 # Programming Languages and Tools 🛠️
 I have experience with the following programming language and tools:
-- **Front-end**: HTML5, CSS3, JavaScript, Bootstrap 4, TypeScript, Angular, Vue.js, and React 
+- **Front-end**: HTML5, CSS3, JavaScript, Bootstrap 5, TypeScript, Vue 2, and React
 - **Back-end**: Python, Node.js, PHP, C# (.NET Core), TypeScript, and Java
-- **Framework**s: Drupal, WordPress, Django, .NET Core, and Laravel
+- **Frameworks**: Drupal, WordPress, Django, .NET Core, and Laravel
 - **Databases**: MySQL, Microsoft SQL, PostgreSQL, MongoDB, and SQLite
 - **Operating System**s: Windows 10, macOS, and Linux (i.e. Debian and Ubuntu)
 - **Tools**: Docker, Visual Studio Code, Git (along with GitHub, GitLab, and BitBucket), VMWare Horizon and VMWare Workstation,

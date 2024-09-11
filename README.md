@@ -1,4 +1,4 @@
-# Hi, I'm Josh Jadulco 👋
+# Hi, I'm Josh 👋
 
 I'm a Full Stack Web Developer & Linux Enthusiast. With over 5 years in professional web development, I specialize in creating robust, scalable websites and web services. My expertise spans the full stack, with a focus on accessibility in the UX and efficiency in the back-end.
 

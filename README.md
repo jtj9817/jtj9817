@@ -4,9 +4,10 @@ I'm a Full Stack Web Developer & Linux Enthusiast. With over 5 years in professi
 
 ## Current Projects
 - [StructLogr](https://structlogr.on-forge.com) 
-- [Moonshine Coffee Chain Management Sim] (https://moonshine-coffee-management-sim.on-forge.com)
-- [EpochBridge] (https://epochbridge.on-forge.com)
-- 
+- [Moonshine Coffee Chain Management Sim](https://moonshine-coffee-management-sim.on-forge.com)
+- [EpochBridge](https://epochbridge.on-forge.com)
+- [GTA Alerts](https://gta-alerts.on-forge.com)
+  
 ## Core Competencies
 - Full stack web development
 - Linux administration

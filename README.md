@@ -1,6 +1,6 @@
 # Hi, I'm Josh 👋
 
-I'm a Full Stack Web Developer & Linux Enthusiast. With over 5 years in professional web development, I specialize in creating robust, scalable websites and web services. My expertise spans the full stack, with a focus on accessibility in the UX and efficiency in the back-end.
+I'm a Full Stack Web Developer & Linux Enthusiast. With over 7 years in professional web development, I specialize in creating robust, scalable websites and web services. My expertise spans the full stack, with a focus on accessibility in the UX and efficiency in the back-end.
 
 ## Current Projects
 - [Canadian Energy Statistics](https://cdn-energy-statistics.joshtrazyn.com)
@@ -22,20 +22,21 @@ I'm a Full Stack Web Developer & Linux Enthusiast. With over 5 years in professi
 - DevOps practices
 - REST API development
 - Agile methodologies
-
+- ETL Systems
+- 
 ## Development Environment
 Ubuntu 22.04 LTS with VSCode.
 
 ## Tech Stack 🛠️
 - **Front-end**: HTML5, CSS3, JavaScript, Bootstrap 5, TypeScript, Vue 2 & 3, React
-- **Back-end**: PHP (Laravel), Node.js, Python, Go, C# (.NET Core), Java
+- **Back-end**: PHP (Laravel), Node.js, Python, Go, C# (.NET Core), Java, Bun.js
 - **Databases**: MySQL, PostgreSQL, MongoDB, SQLite
-- **CMS**: Drupal, WordPress
+- **CMS**: Drupal, WordPress, Hugo, Astra.js
 - **DevOps**: 
   - Docker for containerization
   - Git (GitHub, GitLab, BitBucket) for version control
   - Jenkins, Travis CI for continuous integration
-- **Testing**: Jest, Mocha, PHPUnit, pytest
+- **Testing**: Jest, Mocha, PHPUnit, pytest, Selenium, Playwright, 
 - **Other tools**: 
   - VMWare Horizon and Workstation
   - Chrome & Firefox Developer Tools
@@ -57,10 +58,10 @@ I believe in creating web solutions that are not just functional, but also maint
 - Adhering to security best practices
 
 ## Current Focus 🌱
-Expanding my expertise in Go, with a particular interest in building scalable web services for generative AI. 
+Working on projects using Laravel, Bun.js, Typescript, and Python.
+Integrating AIs/LLMs into data-focused web applications.
 
-## Notable Projects
-I've successfully delivered a range of web projects, from high-traffic e-commerce platforms to complex web applications. A common thread in my work is the emphasis on scalability, user experience, and adherence to WCAG standards for accessibility.
+---
 
 I'm always open to discussing new technologies, development strategies, or potential collaborations. Feel free to reach out if you'd like to connect!
 <!---

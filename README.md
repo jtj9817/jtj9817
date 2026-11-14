@@ -13,6 +13,12 @@ I'm a Full Stack Web Developer & Linux Enthusiast. With over 7 years in professi
 - [Moonshine Coffee Chain Management Sim](https://moonshine-coffee-management-sim.on-forge.com)
 - [Poems Arena](https://classicist-sanctuary-lf4is44nra-uw.a.run.app/)
 
+### RimWorld 1.6 Modding
+I also develop mods for **RimWorld 1.6**. Each mod is written in C# against the game's modding API, using Harmony to patch game code at runtime.
+- [Quadrunner-mod-rw](https://github.com/jtj9817/Quadrunner-mod-rw) — utility, rescue and combat robodogs
+- [tidy-threads](https://github.com/jtj9817/tidy-threads) — dressers and wardrobes become apparel-only storage (requires Harmony + Adaptive Storage Framework)
+- [PracticeMakesDeadly](https://github.com/jtj9817/PracticeMakesDeadly) — target-practice recreation buildings that train Shooting
+
   
 ## Core Competencies
 - Full stack web development
@@ -23,6 +29,7 @@ I'm a Full Stack Web Developer & Linux Enthusiast. With over 7 years in professi
 - REST API development
 - Agile methodologies
 - ETL Systems
+- C# / .NET development
 - 
 ## Development Environment
 Ubuntu 22.04 LTS with VSCode.
